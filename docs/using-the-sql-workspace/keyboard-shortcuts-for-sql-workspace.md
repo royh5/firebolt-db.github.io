@@ -81,3 +81,4 @@ Firebolt supports the following keyboard shortcuts in the SQL workspace.
 | Select next before | Ctrl-Alt-Shift-Left |
 | Select next after | Ctrl-Alt-Shift-Right |
 | Find all | Ctrl-Alt-K |
+| Collapse/expand results section | Ctrl-Alt-E |
